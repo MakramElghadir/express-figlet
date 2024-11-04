@@ -1,0 +1,25 @@
+{
+  "name": "express-figlet",
+  "version": "1.0.0",
+  "description": "express-figlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "res.send('Hello World!')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakramElghadir/express-figlet.git"
+  },
+  "keywords": [
+    "figlet"
+  ],
+  "author": "Makram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakramElghadir/express-figlet/issues"
+  },
+  "homepage": "https://github.com/MakramElghadir/express-figlet#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
